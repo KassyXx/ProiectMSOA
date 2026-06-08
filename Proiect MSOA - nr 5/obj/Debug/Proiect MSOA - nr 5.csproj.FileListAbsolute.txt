@@ -1,0 +1,75 @@
+D:\Proiect MSOA - nr 5\Proiect MSOA - nr 5\bin\Debug\Proiect MSOA - nr 5.exe.config
+D:\Proiect MSOA - nr 5\Proiect MSOA - nr 5\bin\Debug\Proiect MSOA - nr 5.exe
+D:\Proiect MSOA - nr 5\Proiect MSOA - nr 5\bin\Debug\Proiect MSOA - nr 5.pdb
+D:\Proiect MSOA - nr 5\Proiect MSOA - nr 5\bin\Debug\EntityFramework.dll
+D:\Proiect MSOA - nr 5\Proiect MSOA - nr 5\bin\Debug\EntityFramework.SqlServer.dll
+D:\Proiect MSOA - nr 5\Proiect MSOA - nr 5\bin\Debug\EntityFramework.xml
+D:\Proiect MSOA - nr 5\Proiect MSOA - nr 5\bin\Debug\EntityFramework.SqlServer.xml
+D:\Proiect MSOA - nr 5\Proiect MSOA - nr 5\obj\Debug\Proiect MSOA - nr 5.csproj.AssemblyReference.cache
+D:\Proiect MSOA - nr 5\Proiect MSOA - nr 5\obj\Debug\Admin\AdminWindow.g.cs
+D:\Proiect MSOA - nr 5\Proiect MSOA - nr 5\obj\Debug\Autentificare\MainWindow.g.cs
+D:\Proiect MSOA - nr 5\Proiect MSOA - nr 5\obj\Debug\App.g.cs
+D:\Proiect MSOA - nr 5\Proiect MSOA - nr 5\obj\Debug\Proiect MSOA - nr 5_MarkupCompile.cache
+D:\Proiect MSOA - nr 5\Proiect MSOA - nr 5\obj\Debug\Proiect MSOA - nr 5_MarkupCompile.lref
+D:\Proiect MSOA - nr 5\Proiect MSOA - nr 5\obj\Debug\Admin\AdminWindow.baml
+D:\Proiect MSOA - nr 5\Proiect MSOA - nr 5\obj\Debug\Autentificare\MainWindow.baml
+D:\Proiect MSOA - nr 5\Proiect MSOA - nr 5\obj\Debug\Proiect MSOA - nr 5.g.resources
+D:\Proiect MSOA - nr 5\Proiect MSOA - nr 5\obj\Debug\Proiect_MSOA___nr_5.Properties.Resources.resources
+D:\Proiect MSOA - nr 5\Proiect MSOA - nr 5\obj\Debug\Proiect MSOA - nr 5.csproj.GenerateResource.cache
+D:\Proiect MSOA - nr 5\Proiect MSOA - nr 5\obj\Debug\Proiect MSOA - nr 5.csproj.CoreCompileInputs.cache
+D:\Proiect MSOA - nr 5\Proiect MSOA - nr 5\obj\Debug\Proiect .9B68207E.Up2Date
+D:\Proiect MSOA - nr 5\Proiect MSOA - nr 5\obj\Debug\Proiect MSOA - nr 5.exe
+D:\Proiect MSOA - nr 5\Proiect MSOA - nr 5\obj\Debug\Proiect MSOA - nr 5.pdb
+D:\Proiect MSOA - nr 5\Proiect MSOA - nr 5\obj\Debug\Proiect_MSOA___nr_5.Migrations.InitialCreate.resources
+F:\Proiect MSOA - nr 5\Proiect MSOA - nr 5\bin\Debug\Proiect MSOA - nr 5.exe.config
+F:\Proiect MSOA - nr 5\Proiect MSOA - nr 5\bin\Debug\Proiect MSOA - nr 5.exe
+F:\Proiect MSOA - nr 5\Proiect MSOA - nr 5\bin\Debug\Proiect MSOA - nr 5.pdb
+F:\Proiect MSOA - nr 5\Proiect MSOA - nr 5\bin\Debug\EntityFramework.dll
+F:\Proiect MSOA - nr 5\Proiect MSOA - nr 5\bin\Debug\EntityFramework.SqlServer.dll
+F:\Proiect MSOA - nr 5\Proiect MSOA - nr 5\bin\Debug\EntityFramework.xml
+F:\Proiect MSOA - nr 5\Proiect MSOA - nr 5\bin\Debug\EntityFramework.SqlServer.xml
+F:\Proiect MSOA - nr 5\Proiect MSOA - nr 5\obj\Debug\Proiect MSOA - nr 5.csproj.AssemblyReference.cache
+F:\Proiect MSOA - nr 5\Proiect MSOA - nr 5\obj\Debug\Angajat\EmployeeWindow.baml
+F:\Proiect MSOA - nr 5\Proiect MSOA - nr 5\obj\Debug\Client\ClientWindow.baml
+F:\Proiect MSOA - nr 5\Proiect MSOA - nr 5\obj\Debug\Admin\AdminWindow.g.cs
+F:\Proiect MSOA - nr 5\Proiect MSOA - nr 5\obj\Debug\Angajat\EmployeeWindow.g.cs
+F:\Proiect MSOA - nr 5\Proiect MSOA - nr 5\obj\Debug\Autentificare\MainWindow.g.cs
+F:\Proiect MSOA - nr 5\Proiect MSOA - nr 5\obj\Debug\Client\ClientWindow.g.cs
+F:\Proiect MSOA - nr 5\Proiect MSOA - nr 5\obj\Debug\App.g.cs
+F:\Proiect MSOA - nr 5\Proiect MSOA - nr 5\obj\Debug\Proiect MSOA - nr 5_MarkupCompile.cache
+F:\Proiect MSOA - nr 5\Proiect MSOA - nr 5\obj\Debug\Proiect MSOA - nr 5_MarkupCompile.lref
+F:\Proiect MSOA - nr 5\Proiect MSOA - nr 5\obj\Debug\Admin\AdminWindow.baml
+F:\Proiect MSOA - nr 5\Proiect MSOA - nr 5\obj\Debug\Autentificare\MainWindow.baml
+F:\Proiect MSOA - nr 5\Proiect MSOA - nr 5\obj\Debug\Proiect MSOA - nr 5.g.resources
+F:\Proiect MSOA - nr 5\Proiect MSOA - nr 5\obj\Debug\Proiect_MSOA___nr_5.Properties.Resources.resources
+F:\Proiect MSOA - nr 5\Proiect MSOA - nr 5\obj\Debug\Proiect MSOA - nr 5.csproj.GenerateResource.cache
+F:\Proiect MSOA - nr 5\Proiect MSOA - nr 5\obj\Debug\Proiect MSOA - nr 5.csproj.CoreCompileInputs.cache
+F:\Proiect MSOA - nr 5\Proiect MSOA - nr 5\obj\Debug\Proiect .9B68207E.Up2Date
+F:\Proiect MSOA - nr 5\Proiect MSOA - nr 5\obj\Debug\Proiect MSOA - nr 5.exe
+F:\Proiect MSOA - nr 5\Proiect MSOA - nr 5\obj\Debug\Proiect MSOA - nr 5.pdb
+C:\Users\Student\Desktop\Proiect msoa Rusu Kassandra\Proiect MSOA - nr 5\Proiect MSOA - nr 5\bin\Debug\Proiect MSOA - nr 5.exe.config
+C:\Users\Student\Desktop\Proiect msoa Rusu Kassandra\Proiect MSOA - nr 5\Proiect MSOA - nr 5\bin\Debug\Proiect MSOA - nr 5.exe
+C:\Users\Student\Desktop\Proiect msoa Rusu Kassandra\Proiect MSOA - nr 5\Proiect MSOA - nr 5\bin\Debug\Proiect MSOA - nr 5.pdb
+C:\Users\Student\Desktop\Proiect msoa Rusu Kassandra\Proiect MSOA - nr 5\Proiect MSOA - nr 5\bin\Debug\EntityFramework.dll
+C:\Users\Student\Desktop\Proiect msoa Rusu Kassandra\Proiect MSOA - nr 5\Proiect MSOA - nr 5\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Student\Desktop\Proiect msoa Rusu Kassandra\Proiect MSOA - nr 5\Proiect MSOA - nr 5\bin\Debug\EntityFramework.xml
+C:\Users\Student\Desktop\Proiect msoa Rusu Kassandra\Proiect MSOA - nr 5\Proiect MSOA - nr 5\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Student\Desktop\Proiect msoa Rusu Kassandra\Proiect MSOA - nr 5\Proiect MSOA - nr 5\obj\Debug\Proiect MSOA - nr 5.csproj.AssemblyReference.cache
+C:\Users\Student\Desktop\Proiect msoa Rusu Kassandra\Proiect MSOA - nr 5\Proiect MSOA - nr 5\obj\Debug\Angajat\EmployeeWindow.baml
+C:\Users\Student\Desktop\Proiect msoa Rusu Kassandra\Proiect MSOA - nr 5\Proiect MSOA - nr 5\obj\Debug\Client\ClientWindow.baml
+C:\Users\Student\Desktop\Proiect msoa Rusu Kassandra\Proiect MSOA - nr 5\Proiect MSOA - nr 5\obj\Debug\Admin\AdminWindow.g.cs
+C:\Users\Student\Desktop\Proiect msoa Rusu Kassandra\Proiect MSOA - nr 5\Proiect MSOA - nr 5\obj\Debug\Angajat\EmployeeWindow.g.cs
+C:\Users\Student\Desktop\Proiect msoa Rusu Kassandra\Proiect MSOA - nr 5\Proiect MSOA - nr 5\obj\Debug\Autentificare\MainWindow.g.cs
+C:\Users\Student\Desktop\Proiect msoa Rusu Kassandra\Proiect MSOA - nr 5\Proiect MSOA - nr 5\obj\Debug\Client\ClientWindow.g.cs
+C:\Users\Student\Desktop\Proiect msoa Rusu Kassandra\Proiect MSOA - nr 5\Proiect MSOA - nr 5\obj\Debug\App.g.cs
+C:\Users\Student\Desktop\Proiect msoa Rusu Kassandra\Proiect MSOA - nr 5\Proiect MSOA - nr 5\obj\Debug\Proiect MSOA - nr 5_MarkupCompile.cache
+C:\Users\Student\Desktop\Proiect msoa Rusu Kassandra\Proiect MSOA - nr 5\Proiect MSOA - nr 5\obj\Debug\Proiect MSOA - nr 5_MarkupCompile.lref
+C:\Users\Student\Desktop\Proiect msoa Rusu Kassandra\Proiect MSOA - nr 5\Proiect MSOA - nr 5\obj\Debug\Admin\AdminWindow.baml
+C:\Users\Student\Desktop\Proiect msoa Rusu Kassandra\Proiect MSOA - nr 5\Proiect MSOA - nr 5\obj\Debug\Autentificare\MainWindow.baml
+C:\Users\Student\Desktop\Proiect msoa Rusu Kassandra\Proiect MSOA - nr 5\Proiect MSOA - nr 5\obj\Debug\Proiect MSOA - nr 5.g.resources
+C:\Users\Student\Desktop\Proiect msoa Rusu Kassandra\Proiect MSOA - nr 5\Proiect MSOA - nr 5\obj\Debug\Proiect_MSOA___nr_5.Properties.Resources.resources
+C:\Users\Student\Desktop\Proiect msoa Rusu Kassandra\Proiect MSOA - nr 5\Proiect MSOA - nr 5\obj\Debug\Proiect MSOA - nr 5.csproj.GenerateResource.cache
+C:\Users\Student\Desktop\Proiect msoa Rusu Kassandra\Proiect MSOA - nr 5\Proiect MSOA - nr 5\obj\Debug\Proiect MSOA - nr 5.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\Proiect msoa Rusu Kassandra\Proiect MSOA - nr 5\Proiect MSOA - nr 5\obj\Debug\Proiect .9B68207E.Up2Date
+C:\Users\Student\Desktop\Proiect msoa Rusu Kassandra\Proiect MSOA - nr 5\Proiect MSOA - nr 5\obj\Debug\Proiect MSOA - nr 5.exe
+C:\Users\Student\Desktop\Proiect msoa Rusu Kassandra\Proiect MSOA - nr 5\Proiect MSOA - nr 5\obj\Debug\Proiect MSOA - nr 5.pdb
